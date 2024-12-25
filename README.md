@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamtotade.
-- 👀 I’m interested in Embedded C Software Development and  C, python programming.
-- 🌱 I’m currently working in Centre for Development of Advanced Computing (C-DAC) Bangalore, R&D.
+- 👀 I’m interested in Embedded C Software Development, C & python programming.
+- 🌱 I’m currently working in Qualcomm, Bangalore
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me: shubhamtotade@gmail.com
 
